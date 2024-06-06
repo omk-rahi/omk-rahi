@@ -18,13 +18,10 @@ I am a dedicated Full Stack Developer with a strong foundation in JavaScript tec
 
 #### Frontend Development
 - **Languages & Tools:** HTML, CSS, JavaScript, SCSS
-- **Frameworks & Libraries:** React, Next.js, Astro
+- **Frameworks & Libraries:** React, Next.js
 
 #### Backend Development
 - **Languages & Tools:** Node.js, MongoDB, Django, PostgreSQL
-
-#### Additional Programming Languages
-- **Languages:** Python
 
 ---
 
@@ -51,8 +48,8 @@ Here are some of the projects that highlight my skills and expertise:
 
 ### Contact
 
-- **Email:** [rahi.omkar@example.com](mailto:rahi.omkar@example.com)
-- **LinkedIn:** [linkedin.com/in/rahiomkar](https://linkedin.com/in/rahiomkar)
+- **Email:** [rahi.omkar@example.com](mailto:omk.rahi@gmail.com)
+- **LinkedIn:** [linkedin.com/in/rahiomkar](https://linkedin.com/in/omk-rahi)
 - **GitHub:** [github.com/omk-rahi](https://github.com/omk-rahi)
 
 Feel free to reach out to me for collaborations or inquiries!
