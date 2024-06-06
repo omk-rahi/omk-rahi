@@ -48,8 +48,8 @@ Here are some of the projects that highlight my skills and expertise:
 
 ### Contact
 
-- **Email:** [rahi.omkar@example.com](mailto:omk.rahi@gmail.com)
-- **LinkedIn:** [linkedin.com/in/rahiomkar](https://linkedin.com/in/omk-rahi)
+- **Email:** [omk.rahi@gmail.com](mailto:omk.rahi@gmail.com)
+- **LinkedIn:** [linkedin.com/in/omk-rahi](https://linkedin.com/in/omk-rahi)
 - **GitHub:** [github.com/omk-rahi](https://github.com/omk-rahi)
 
 Feel free to reach out to me for collaborations or inquiries!
