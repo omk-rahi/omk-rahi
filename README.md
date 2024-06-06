@@ -6,7 +6,7 @@
 
 ### About Me
 
-I'm a passionate Full Stack Developer with a strong foundation in JavaScript technologies. I have a Bachelor of Computer Applications (BCA) from Gujarat University. My expertise lies in both frontend and backend development, and I am always eager to learn and explore new technologies.
+I am a dedicated Full Stack Developer with a strong foundation in JavaScript technologies. I hold a Bachelor of Computer Applications (BCA) from Gujarat University. My expertise encompasses both frontend and backend development, and I am consistently driven to learn and adapt to new technologies.
 
 - **Date of Birth:** December 13, 2004
 - **Education:** BCA from Gujarat University
@@ -14,7 +14,7 @@ I'm a passionate Full Stack Developer with a strong foundation in JavaScript tec
 
 ---
 
-### Skills
+### Technical Skills
 
 #### Frontend Development
 - **Languages & Tools:** HTML, CSS, JavaScript, SCSS
@@ -24,13 +24,13 @@ I'm a passionate Full Stack Developer with a strong foundation in JavaScript tec
 - **Languages & Tools:** Node.js, MongoDB, Django, PostgreSQL
 
 #### Additional Programming Languages
-- **Languages:** Java, Python
+- **Languages:** Python
 
 ---
 
 ### Projects
 
-Here are a few projects that showcase my skills and expertise:
+Here are some of the projects that highlight my skills and expertise:
 
 1. **Project Name**
    - **Description:** A brief description of the project.
@@ -53,15 +53,15 @@ Here are a few projects that showcase my skills and expertise:
 
 - **Email:** [rahi.omkar@example.com](mailto:rahi.omkar@example.com)
 - **LinkedIn:** [linkedin.com/in/rahiomkar](https://linkedin.com/in/rahiomkar)
-- **GitHub:** [github.com/rahiomkar](https://github.com/rahiomkar)
+- **GitHub:** [github.com/omk-rahi](https://github.com/omk-rahi)
 
-Feel free to reach out to me for collaborations or just to say hi!
+Feel free to reach out to me for collaborations or inquiries!
 
 ---
 
-### GitHub Stats
+### GitHub Statistics
 
-![Rahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahiomkar&show_icons=true&theme=radical)
+![Rahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=omk-rahi&show_icons=true&theme=radical)
 
 ---
 
@@ -78,14 +78,13 @@ Feel free to reach out to me for collaborations or just to say hi!
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ### Contributions
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahiomkar&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omk-rahi&layout=compact&theme=radical)
 
 ---
 
