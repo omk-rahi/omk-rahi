@@ -1,6 +1,6 @@
 # Hi, I'm Omkar Rahi 👋
 
-**Full Stack Developer | JavaScript Specialist**
+**Full Stack Developer | JavaScript Enthusiast**
 
 ---
 
