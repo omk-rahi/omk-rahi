@@ -1,4 +1,4 @@
-# Hi, I'm Rahi Omkar 👋
+# Hi, I'm Omkar Rahi 👋
 
 **Full Stack Developer | JavaScript Specialist**
 
